@@ -108,7 +108,7 @@ NGROK_TOKEN = "YOUR_NGROK_TOKEN_HERE"         # dashboard.ngrok.com
 
 Each notebook is optimised for Colab with A100/T4 GPU. Open directly:
 
-- [AgentRAG_OpenAI.ipynb](https://colab.research.google.com/github/GauravGurudutt/agentic_factual_verification/blob/main/AgentRAG_OpenAI.ipynb) *(update link after creating repo)*
+- [AgentRAG_OpenAI.ipynb](https://colab.research.google.com/github/GauravGurudutt/agentic_factual_verification/blob/main/AgentRAG_OpenAI.ipynb)
 - [AgentRAG_Gemini.ipynb](https://colab.research.google.com/github/GauravGurudutt/agentic_factual_verification/blob/main/AgentRAG_Gemini.ipynb)
 - [AgentRAG_Llama.ipynb](https://colab.research.google.com/github/GauravGurudutt/agentic_factual_verification/blob/main/AgentRAG_Llama.ipynb)
 - [AgentRAG_Mistral.ipynb](https://colab.research.google.com/github/GauravGurudutt/agentic_factual_verification/blob/main/AgentRAG_Mistral.ipynb)
