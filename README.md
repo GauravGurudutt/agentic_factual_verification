@@ -155,11 +155,11 @@ tavily-python
 If you use this work, please cite:
 
 ```bibtex
-@misc{gauravg2025agenticrag,
+@misc{gauravg2026agenticrag,
   title  = {An Agentic Framework for Reliable Retrieval-Augmented Text Generation
              using Verification, Correction, and Multi-Model Evaluation},
   author = {Gaurav G},
-  year   = {2025},
+  year   = {2026},
   school = {PES University, Bengaluru}
 }
 ```
